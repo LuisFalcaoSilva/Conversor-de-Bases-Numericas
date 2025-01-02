@@ -3,7 +3,7 @@ import time
 import random
 
 #Estética
-print('{:=^40}'.format('Desafio 37'))
+print('{:=^40}'.format('Desafio'))
 print('{:80}'.format(40 * '='))
 #Interação
 apr = input('')
