@@ -19,17 +19,30 @@ No futuro, quero adicionar um loop de repetição nos meus projetos, para que o 
 
 Vale destacar que o programa ainda não possui uma interface gráfica (front-end). Ou seja, ele só roda no terminal. Para dar início ao uso, o usuário deve chamar o ASCE, como se estivesse começando uma conversa em um chat, como no WhatsApp, por exemplo.
 
-## **Tabela de conteúdos**
+## Tabela de Conteúdos
 
-•[Arquitetura](##Arquitetura)
+- [Sobre o Projeto](#sobre-o-projeto)
+- [Sobre Mim](#sobre-mim)
+- [Desafios e Aprendizados](#desafios-e-aprendizados)
+- [O Que Vem Por Aí](#o-que-vem-por-ai)
+- [Observações Importantes](#observacoes-importantes)
+- [Arquitetura](#arquitetura)
+  - [Bibliotecas Usadas](#bibliotecas-usadas)
+  - [Estética e Formatação do Texto](#estetica-e-formatacao-do-texto)
+  - [Interação com o Usuário - Entrada de Nome](#interacao-com-o-usuario---entrada-de-nome)
+  - [Condições e Comparações de Nome](#condicoes-e-comparacoes-de-nome)
+  - [Pergunta sobre Emoção](#pergunta-sobre-emocao)
+  - [Validação da Resposta de Emoção](#validacao-da-resposta-de-emocao)
+  - [Resposta Condicional sobre Emoção](#resposta-condicional-sobre-emocao)
+  - [Pergunta sobre Conversão de Números](#pergunta-sobre-conversao-de-numeros)
+  - [Conversão de Números](#conversao-de-numeros)
+  - [Loop para Entrada de Número](#loop-para-entrada-de-numero)
+  - [Conversão de Base Numérica](#conversao-de-base-numerica)
+  - [Despedida](#despedida)
+- [Features](#features)
+- [Contribua com o Projeto](#contribua-com-o-projeto)
+- [Extra](#extra)
 
-•[Features](##Features)
-
-•[Instruções de uso](##Instruções-de-uso)
-
-•[Contribua com o projeto](##Contribua-com-o-projeto)
-
-•[Extra](##Extra)
 
 ##**Arquitetura**
 
