@@ -1,31 +1,35 @@
 # Conversor de bases númericas 
 Esse projeto foi feito para ajudar quem tem dificuldade em converter números entre as bases decimal, binária, octal e hexadecimal. A ideia é tornar esse processo mais fácil e intuitivo para quem está aprendendo.
 
-###Sobre Mim:
+###**Sobre Mim:**
 
 Sou uma pessoa que gosta de prestar atenção nos detalhes e, às vezes, acabo me preocupando mais com a forma do que com o significado. Para deixar o projeto mais interessante, criei um robô chamado ASCE, que interage com o usuário. Antes de apresentar o projeto, ASCE bate um papo com o usuário de um jeito descontraído, como se fosse uma criança curiosa, tentando entender o mundo ao seu redor.
 
-###Desafios e Aprendizados:
+###**Desafios e Aprendizados:**
 
 Enquanto desenvolvia o projeto, aprendi bastante sobre conversão de bases numéricas. O maior desafio foi com o uso da estrutura while, que era algo novo para mim. Mas, depois de algumas tentativas, acho que já peguei o jeito.
 
 O algoritmo em si eu consegui desenvolver de maneira rápida, mas o que realmente me tomou mais tempo foi entender como implementar a estrutura while corretamente e toda a parte de interação "humanizada" com o usuário, que exigiu um toque mais cuidadoso para criar uma conversa envolvente e divertida.
 
-###O Que Vem Por Aí:
+###**O Que Vem Por Aí:**
 
 No futuro, quero adicionar um loop de repetição nos meus projetos, para que o programa não feche logo após ser usado. Assim, o usuário pode utilizar várias vezes, fechando o programa só quando realmente quiser.
 
-###Observações Importantes:
+###**Observações Importantes:**
 
 Vale destacar que o programa ainda não possui uma interface gráfica (front-end). Ou seja, ele só roda no terminal. Para dar início ao uso, o usuário deve chamar o ASCE, como se estivesse começando uma conversa em um chat, como no WhatsApp, por exemplo.
 
 ## **Tabela de conteúdos**
 
--[Arquitetura](##**Arquitetura**)
--[Features](##**Features**)
--[Instruções de uso](**##Instruções-de-uso**)
--[Contribua com o projeto](**##Contribua-com-o-projeto**)
--[Extra](**##Extra**)
+•[Arquitetura](##**Arquitetura**)
+
+•[Features](##**Features**)
+
+•[Instruções de uso](**##Instruções-de-uso**)
+
+•[Contribua com o projeto](**##Contribua-com-o-projeto**)
+
+•[Extra](**##Extra**)
 
 ##**Arquitetura**
 
@@ -204,7 +208,7 @@ O código é interativo e permite que o usuário forneça entradas que influenci
 
 Basicamente meu código muda a base numérica de acordo com a vontade do usuário.
 
-##**Contribua com o projeto**##
+##**Contribua com o projeto**
 
 Ele está disponível para versionamento, e caso você tenha alguma idéia legal, ou tenha criado uma versão melhor entre em [contato](https://meu-site-livid-two.vercel.app/), para assim eu divulgar sua versão com o seus créditos.
 
