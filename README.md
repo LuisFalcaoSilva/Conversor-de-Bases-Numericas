@@ -21,11 +21,11 @@ Vale destacar que o programa ainda não possui uma interface gráfica (front-end
 
 ## **Tabela de conteúdos**
 
-1.[Arquitetura](##**Arquitetura**)
-2.[Features](##**Features**)
-3.[Instruções de uso](**##Instruções-de-uso**)
-4.[Contribua com o projeto](**##Contribua-com-o-projeto**)
-5.[Extra](**##Extra**)
+-[Arquitetura](##**Arquitetura**)
+-[Features](##**Features**)
+-[Instruções de uso](**##Instruções-de-uso**)
+-[Contribua com o projeto](**##Contribua-com-o-projeto**)
+-[Extra](**##Extra**)
 
 ##**Arquitetura**
 
