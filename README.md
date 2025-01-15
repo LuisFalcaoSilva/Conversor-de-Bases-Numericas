@@ -177,8 +177,6 @@ elif '2':
 else:
     print('O número {} convertido para hexadecimal é {}'.format(nu,hex(nu).lstrip('0ob')))
 ```
-
-- **`if '1'`**: Aqui, a condição não está correta. Para verificar se o usuário escolheu a opção 1, a comparação deveria ser com `es == '1'`, e não apenas com a string `'1'`.
   
 - **`bin(nu)`**: Converte um número para sua representação binária.
 - **`oct(nu)`**: Converte um número para sua representação octal.
